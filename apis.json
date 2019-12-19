@@ -1,0 +1,63 @@
+{
+    "name": "JAXenter.com",
+    "description": "News, articles and tutorials from the IT and programming world \u2013 JAXenter tracks the latest trends in Java as well as the hottest tools, databases, big data and cloud solutions.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20837-jaxenter-com.jpg",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/jaxenter-com\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "JAXenter.com",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20837-jaxenter-com.jpg",
+            "humanURL": "https:\/\/jaxenter.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/jaxenter-com-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/jaxenter-com-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Email",
+            "url": "editor@jaxenter.com"
+        },
+        {
+            "type": "Email",
+            "url": "anika.stock@jaxenter.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@jaxenter.com"
+        },
+        {
+            "type": "Curated Source",
+            "url": "https:\/\/jaxenter.com\/apis-in-banking-are-the-key-to-the-future-124606.html"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/jaxenter.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/JAXenterCOM"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/jaxenter.com"
+        }
+    ]
+}
